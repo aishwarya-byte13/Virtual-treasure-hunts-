@@ -8,6 +8,8 @@ This project uses blockchain technology to create a gamified and interactive vir
 
 ## Contract Address
 0xCB6EFc3B434C4F57D275149344B8186e7f56EaFa
+![Screenshot 2024-12-21 143016](https://github.com/user-attachments/assets/a90f424f-b494-4450-8acd-faba2d612d62)
+
 
 ## Project Vision
 To foster engagement and learning by integrating educational content into a blockchain-powered treasure hunt. By solving clues and riddles, participants enhance their problem-solving and critical-thinking skills in a fun and innovative way.
